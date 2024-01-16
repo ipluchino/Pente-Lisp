@@ -1,4 +1,4 @@
-An implementation of the board game Pente in C++ with a fully working computer player that plays optimally. The rules of the game are as follows:
+An implementation of the board game Pente in Lisp with a fully working computer player that plays optimally. The rules of the game are as follows:
 
 <body>
 <h1>Pente</h1>
